@@ -1,9 +1,8 @@
-It's me, Tierney!
+It's my npm Business Card!
 
 # Usage
-Via npx:
+Assuming node & npm is installed:
 ```
-npx bitandbang
+npx abritinthebay
 ```
-
-Not including how to use it globally because I'm not sure why you'd want this as a global command. That'd be creepy.
+That's it! No install, just run it and see :)

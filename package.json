@@ -1,14 +1,14 @@
 {
-  "name": "bitandbang",
-  "version": "1.3.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "abritinthebay",
+  "version": "1.0.0",
+  "description": "An electronic personal business card for Gregory Wild-Smith (@abritinthebay)",
   "main": "/bin/card.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "abritinthebay": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "https://github.com/abritinthebay/abritinthebay.git"
   },
   "scripts": {
     "prepublish": "npm run build",
@@ -23,9 +23,10 @@
     "npm card",
     "npx",
     "npx card",
+    "hCard",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Gregory Wild-Smith <gregory@wild-smith.com> (http://wild-smith.com)",
   "license": "MIT",
   "files": [
     "bin/card.js",
@@ -34,6 +35,7 @@
   "devDependencies": {
     "boxen": "^2.1.0",
     "chalk": "^2.4.1",
+    "prompt": "^1.0.0",
     "standard": "^12.0.1"
   }
 }
