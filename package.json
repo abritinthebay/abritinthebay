@@ -1,6 +1,6 @@
 {
   "name": "abritinthebay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An electronic personal business card for Gregory Wild-Smith (@abritinthebay)",
   "main": "/bin/card.js",
   "bin": {
